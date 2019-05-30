@@ -1,1 +1,6 @@
 C:\Users\willy\OneDrive\Documents\Classes\TERM 2\Software QA\Assignments\assignment 1\QualityAssignment\QualityAssignment\bin\Debug\QualityAssignment.exe.config
+C:\Users\willy\OneDrive\Documents\Classes\TERM 2\Software QA\Assignments\assignment 1\QualityAssignment\QualityAssignment\bin\Debug\QualityAssignment.exe
+C:\Users\willy\OneDrive\Documents\Classes\TERM 2\Software QA\Assignments\assignment 1\QualityAssignment\QualityAssignment\bin\Debug\QualityAssignment.pdb
+C:\Users\willy\OneDrive\Documents\Classes\TERM 2\Software QA\Assignments\assignment 1\QualityAssignment\QualityAssignment\obj\Debug\QualityAssignment.csprojResolveAssemblyReference.cache
+C:\Users\willy\OneDrive\Documents\Classes\TERM 2\Software QA\Assignments\assignment 1\QualityAssignment\QualityAssignment\obj\Debug\QualityAssignment.exe
+C:\Users\willy\OneDrive\Documents\Classes\TERM 2\Software QA\Assignments\assignment 1\QualityAssignment\QualityAssignment\obj\Debug\QualityAssignment.pdb
